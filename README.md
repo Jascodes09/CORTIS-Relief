@@ -49,9 +49,9 @@ npm run dev
 
 Here’s a quick look at the Disaster Response Platform in action:
 
-![Demo Screenshot](./assets/demo1.png)
+![Demo Screenshot](src/assets/demo1.png)
 
-![Demo Screenshot](./assets/demo2.png)
+![Demo Screenshot](src/assets/demo2.png)
 
 > This is the prototype dashboard showing disaster prediction, resource allocation, and emergency alerts.
 
