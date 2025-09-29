@@ -34,6 +34,7 @@ Clone this repository and install dependencies:
 ```bash
 # Clone repository
 git clone https://github.com/your-username/disaster-response-platform.git
+```
 
 # Move into project directory
 cd disaster-response-platform
